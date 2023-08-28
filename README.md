@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @xzm0719
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Grace Pei
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning R (programming language) 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ch920xzm@163.com
 
-<!---
-xzm0719/xzm0719 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
